@@ -5,3 +5,4 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDF
 https://github.com/zhartaunik/lemp-docker/tree/1.0.1
 http://liteuse.ru/ustanovka-i-nastrojka-jupyter-notebook-v-docker/
 http://fadmin.ru/vopros/kak-zapustit-jupyter-notebook-na-docker
+https://russianblogs.com/article/9388909618/
